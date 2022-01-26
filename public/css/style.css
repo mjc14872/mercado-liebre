@@ -1,43 +1,142 @@
-/*
-Paleta de colores
-Amarillo: #EAC926;
-Azul: #03264C;
-Celeste: #1259c3;
-Gris oscuro: #666;
-Gris claro: #ebebeb;
-Verde: #039b54a;
-*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
-/*
-Tipografías
-Familia: Roboto
-*/
+section {
+    overflow: hidden;
+}
 
-/*
-Tamaños tipografía
-cuerpo del texto: 12px
-titulares (última visita y ofertas): 24px
-Precio: 18px
-Descuentos: 16px
-Descripciones: 16px
-*/
+h2, p, body, .titulares, .basado h2, .ofertas h2 {
+    margin: 0;
+}
 
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
+    margin: 0;
+
+}
+
+h2 {
+    font-size: 24px;
+    color: #666;
+}
+
+.logo {
+    width: 40%;
+    padding: 30px 20px 20px 20px;
+}
+
+header, .hamburguesa {
     background-color: #EAC926;
+}
+
+.burger-menu i{
+    background-color: #1259c3;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 2em;
+}
+
+.burger-menu {
+    text-align: center;
+
+}
+
+.hamburguesa {
+    padding: 20px;
+}
+
+.banner img {
+    width: 100%;
+    padding: 0;
+
+}
+
+.banner {
+    align-items: center;
+    /* debo quitar ese fondo */
+    background-color:#ebebeb;
+    margin: 0;
+    padding: 0;
+}
+
+.basado h2 {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    background-color: #ebebeb;
+}
+
+.compra {
+    padding: 10px;
+    text-align: center;
+}
+
+.busqueda {
+    padding: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.titulares {
+    display: none;
     margin: 0;
 }
 
 
+/* main */
 
-h2 {
-    font-size: 24px;
+main {
+    width: 90%;
+    margin: auto;
 }
 
-.logo {
-    width: 120px;
+.img-producto {
+    background-color: #ebebeb;
+    width: 100%;
+    border: 1px solid #ebebeb;
+}
+
+.ofertas h2 {
+    text-align: center;
+    margin: 0;
     padding: 10px;
+}
+
+/* datos */
+
+.datos {
+    border-top: 1px solid #666;
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+body > div.productos > main > div.ofertas > div > div > i {
+    display: inline-block;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px #58a30c;
+    padding: 0.7em 0.6em;
+}
+
+.fa-truck {
+    display: inline-block;
+    border-radius: 50%;
+    box-shadow: 0px 0px 3px #58a30c;
+    padding: 0.7em 0.6em;
+    color: #58a30c;
 }
 
 .precio {
@@ -48,28 +147,80 @@ h2 {
     font-size: 16px;
 }
 
-.compra-cuotas p {
+.descripcion {
+    display: none;
+}
+
+.productos {
+    background-color: #ebebeb;
+}
+
+/* footer  */
+
+footer {
+    width: 100%;
+    background-color: #ebebeb;
+}
+
+strong {
+    font-size: 14px;
+}
+
+.secciones {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
     text-align: center;
+    background-color: #fff;
 }
 
-a {
-    text-decoration: none;
+.secciones div{
+    width: 90%;
+    margin: auto;
 }
 
-ul {
-    list-style: none;
+body > footer > div.paga > div:nth-child(3) > p {
+    padding-bottom: 10px;
+}   
+
+.iconos-footer {
+    font-size: 2em;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.copyright {
+    width: 100%;
+    padding-top: 20px;
     text-align: left;
-    margin-left: -40px;
+    padding-left: 15px;
+
+    /* padding: 10px; */
 }
 
-.burger-menu i{
-    background-color: #03264C;
-    color: #fff;
-    padding: 5px;
-    border-radius: 2px;
+/* media query */
+
+@media (max-width: 361px){
+    body {
+        width: 100%;
+    }
 }
 
-.burger-menu {
-    text-align: center;
+@media (min-width: 769px){
+    body {
+        /* width: 100%; */
+    }
+    .burger-menu {
+        display: none;
+    }
+    .titulares {
+        display: block;
+    }
+    .descripcion {
+        display: block;
+    }
+    .img-producto {
+        box-shadow: 3px 3px 3px #666;     }
 
 }
