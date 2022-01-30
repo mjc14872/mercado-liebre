@@ -48,40 +48,40 @@ La visualización de los artículos en el móbile, será así:
 
 ## La sección Main contendrá lo siguiente:
 
-*Sección: Basado en tu última visita*
+**Sección: Basado en tu última visita**
 
-+ ![imagen de la cafetera](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-cafetera-moulinex.jpg?raw=true)
+![imagen de la cafetera](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-cafetera-moulinex.jpg?raw=true)
   + $6.770
   + 40% OFF
   + Cafetera Moulinex
-+ ![Imagen de MacBook](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-macbook-pro-2019.jpg?raw=true)
+![Imagen de MacBook](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-macbook-pro-2019.jpg?raw=true)
   + $230.000
   + 20% OFF
   + MacBook Pro 2019
-+ ![Imagen de Teléfono](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-samsung-galaxy-s10.jpg?raw=true)
+![Imagen de Teléfono](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-samsung-galaxy-s10.jpg?raw=true)
   + $70.500
   + 10% OFF
   + Samsung Galaxy S10
-+ ![Imagen de SmartTv](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-tv-samsung-smart.jpg?raw=true)
+![Imagen de SmartTv](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-tv-samsung-smart.jpg?raw=true)
   + $23.200
   + 5% OFF
   + SmartTv Samsung 43"
 
-*Sección: Ofertas*
+**Sección: Ofertas**
 
-+ ![imagen de la cafetera](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-cafetera-moulinex.jpg?raw=true)
++ !Imagen de la cafetera
   + $6.770
   + 40% OFF
   + Cafetera Moulinex
-+ ![Imagen de MacBook](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-macbook-pro-2019.jpg?raw=true)
++ Imagen de MacBook
   + $230.000
   + 20% OFF
   + MacBook Pro 2019
-+ ![Imagen de Teléfono](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-samsung-galaxy-s10.jpg?raw=true)
++ Imagen de Teléfono
   + $70.500
   + 10% OFF
   + Samsung Galaxy S10
-+ ![Imagen de SmartTv](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-tv-samsung-smart.jpg?raw=true)
++ Imagen de SmartTv
   + $23.200
   + $23.200
   + 5% OFF
@@ -146,6 +146,16 @@ Tendrá las siguientes secciones:
   + *Agregar box-shadow para dispositivos tablets o superiores.*
 + ***Para la versión mobile***: *Ocultar el site y el login navbar.*
 + ***Para la versión desktop***: *Mostrar el site y login navbar, pero ocultar la imagen del menú hamburguesa.*
+
+**Configuración mobile adaptativo:**
+
+![configuracion hader y articulos - mobile adaptativo](https://user-images.githubusercontent.com/74206062/151695573-453d3f33-2533-4e39-92df-d57c962ef9d8.png)
+
+**Configuración header: tablet y desktop adaptativo**
+
+![configuracion hader - mobile adaptativo](https://user-images.githubusercontent.com/74206062/151695579-17e07c0c-d68a-4c7c-82bd-ab0639dbad50.png)
+
+![configuracion articulos - mobile adaptativo](https://user-images.githubusercontent.com/74206062/151695583-14293412-8477-431f-89fb-1f6e8b1e492a.png)
 
 ## Posicionamiento avanzado y flexbox
 
