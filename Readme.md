@@ -147,6 +147,16 @@ Tendrá las siguientes secciones:
 + ***Para la versión mobile***: *Ocultar el site y el login navbar.*
 + ***Para la versión desktop***: *Mostrar el site y login navbar, pero ocultar la imagen del menú hamburguesa.*
 
+**Configuración mobile adaptativo:**
+
+![configuracion hader y articulos - mobile adaptativo](https://user-images.githubusercontent.com/74206062/151695573-453d3f33-2533-4e39-92df-d57c962ef9d8.png)
+
+**Configuración header: tablet y desktop adaptativo**
+
+![configuracion hader - mobile adaptativo](https://user-images.githubusercontent.com/74206062/151695579-17e07c0c-d68a-4c7c-82bd-ab0639dbad50.png)
+
+![configuracion articulos - mobile adaptativo](https://user-images.githubusercontent.com/74206062/151695583-14293412-8477-431f-89fb-1f6e8b1e492a.png)
+
 ## Posicionamiento avanzado y flexbox
 
 ***Para cada uno de los artículos***: 
