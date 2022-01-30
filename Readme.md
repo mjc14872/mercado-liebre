@@ -40,48 +40,49 @@ Se deberán tener como mínimo las siguientes secciones:
 
 El Mockup del header para móbil es el siguiente:
 
-![header mobil](/ruta/a/la/imagen.jpg "header mobil")
+![header mobil](https://user-images.githubusercontent.com/74206062/151695358-84215e99-da0a-4343-ba26-477b84783562.png)
 
 La visualización de los artículos en el móbile, será así:
 
-![articulos mobil](/ruta/a/la/imagen.jpg "articulos mobil")
+![articulos mobil](https://user-images.githubusercontent.com/74206062/151695366-444491dd-4461-4c58-ba70-e8659676a2ba.png)
 
 ## La sección Main contendrá lo siguiente:
 
 *Sección: Basado en tu última visita*
 
-+ ![imagen de la cafetera](/ruta/a/la/imagen.jpg "img cafetera")
++ ![imagen de la cafetera](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-cafetera-moulinex.jpg?raw=true)
   + $6.770
   + 40% OFF
   + Cafetera Moulinex
-+ ![Imagen de la cafetera](/ruta/a/la/imagen.jpg "img cafetera")
++ ![Imagen de MacBook](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-macbook-pro-2019.jpg?raw=true)
   + $230.000
   + 20% OFF
   + MacBook Pro 2019
-+ ![Imagen de Teléfono](/ruta/a/la/imagen.jpg "img cafetera")
++ ![Imagen de Teléfono](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-samsung-galaxy-s10.jpg?raw=true)
   + $70.500
   + 10% OFF
   + Samsung Galaxy S10
-+ ![Imagen de SmartTv](/ruta/a/la/imagen.jpg "img cafetera")
++ ![Imagen de SmartTv](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-tv-samsung-smart.jpg?raw=true)
   + $23.200
   + 5% OFF
   + SmartTv Samsung 43"
 
 *Sección: Ofertas*
 
-+ ![imagen de la cafetera](/ruta/a/la/imagen.jpg "img cafetera")
++ ![imagen de la cafetera](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-cafetera-moulinex.jpg?raw=true)
   + $6.770
   + 40% OFF
   + Cafetera Moulinex
-+ ![Imagen de la cafetera](/ruta/a/la/imagen.jpg "img cafetera")
++ ![Imagen de MacBook](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-macbook-pro-2019.jpg?raw=true)
   + $230.000
   + 20% OFF
   + MacBook Pro 2019
-+ ![Imagen de Teléfono](/ruta/a/la/imagen.jpg "img cafetera")
++ ![Imagen de Teléfono](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-samsung-galaxy-s10.jpg?raw=true)
   + $70.500
   + 10% OFF
   + Samsung Galaxy S10
-+ ![Imagen de SmartTv](/ruta/a/la/imagen.jpg "img cafetera")
++ ![Imagen de SmartTv](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-tv-samsung-smart.jpg?raw=true)
+  + $23.200
   + $23.200
   + 5% OFF
   + SmartTv Samsung 43"
@@ -151,7 +152,7 @@ Tendrá las siguientes secciones:
 ***Para cada uno de los artículos***: 
 *Lograr que el precio y el descuento estén en el mismo renglón, donde precio ocupa el 30% y el descuento ocupa el 70% del total del renglón.*
 
-imagen
+![articulos-flexbox](https://user-images.githubusercontent.com/74206062/151695695-546359c9-8656-4770-929e-2b9f309bba73.png)
 
 ***Desarrollar el home utilizando flexbox***: *Recordar que el sitio debe ser 100% responsive, se verá un artículo en versión mobile, dos artículos en tablet y cuatro artículos en desktop.*
 
@@ -159,18 +160,20 @@ imagen
 *Logo: debe medir el 50% de su contenedor.*
 *Barra de búsqueda: debe medir el 50% de su contenedor.*
 
-imagen
+![header mobil flexbox](https://user-images.githubusercontent.com/74206062/151695696-e7eefadb-b55b-429b-ad9d-20638e441a50.png)
 
 ***Para dispositivos igual o mayor a una tablet***: 
 *El header debe visualizarse de esta manera: *
 
-imagen
+![header desktop flexbox](https://user-images.githubusercontent.com/74206062/151695697-ccec68a1-40c6-43f8-bfec-77b79a7ed761.png)
 
 ***Visualización de artículos para dispositivos tablet***
-imagen
+
+![articulos tablet flexbox](https://user-images.githubusercontent.com/74206062/151695698-efc44231-3830-470f-b63f-d5a94263f8d3.png)
 
 ***Visualización de artículos para dispositivos desktop***
-imagen
+
+![articulos desktop flexbox](https://user-images.githubusercontent.com/74206062/151695702-7f2d043e-d2e2-4d98-870b-d838b050ae47.png)
 
 ***Formularios***
 Al seleccionar la opción *Creá tu cuenta* se mostrará el formulario para ingresar un nuevo usuario.
@@ -182,16 +185,17 @@ Al seleccionar la opción *Ingresá*, se mostrará el formulario para ingresar a
 ***Transformar el search a un formulario***
 
 *Posible solución: *
-imagen
 
-imagen
+![articulos desktop flexbox](https://user-images.githubusercontent.com/74206062/151695706-0931909e-436b-4a95-a3fc-3fc797b9d3e5.png)
+
+![articulos desktop flexbox](https://user-images.githubusercontent.com/74206062/151695707-7ca4e0ab-4564-4cad-ac82-dea58a3e156e.png)
 
 ***Organizando Elementos***
 + *La descripción del producto debe estar oculta a menos que el usuario pase el mouse por arriba.*
 + *Se pide que cuando el usuario pase el mouse por arriba, se visualice la sombra de la tarjeta del producto.*
 + *El ícono del camión de envío debe girar 90° hacia arriba suavemente cuando se pase el mouse por encima.*
 
-imagen
+![organizando elementos](https://user-images.githubusercontent.com/74206062/151695709-e45c7410-cf2f-44cd-bf59-705d16ad6639.png)
 
 ***Para el login.html***
 *Lograr que cuando el mouse esté encima del botón de envío del fomulario, su color de fondo cambie a #0022AA.*
@@ -199,4 +203,4 @@ imagen
 ***Para el footer***
 *Utilizando flexbox, visualizar como se muestra en la imagen, para dispositivos Desktop. Además, cada vez que pase el mouse por los íconos, deben cambiar a otro color (el que mejor combine con la paleta de colores).*
 
-imagen
+![organizando footer](https://user-images.githubusercontent.com/74206062/151695712-40c11490-ad51-4921-ac68-5f820b6df136.png)
