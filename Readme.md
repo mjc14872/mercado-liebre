@@ -3,8 +3,7 @@
 
 Diseño final del proyecto de maquetación que se desarrollará en su versión ***mobile first***.
 
-![Diseño Final para dispositivos móbiles]([/ruta/a/la/imagen.jpg](https://user-images.githubusercontent.com/74206062/151695347-8f2a10bc-c657-4a8b-b5ab-2d5bea5bc815.png) "Diseño final")
-
+![Diseño Final dispositivo mobil](https://user-images.githubusercontent.com/74206062/151694561-91470659-63eb-432d-8085-8a4899e66a09.png)
 
 ## Deberá tener la siguiente estructura:
 
