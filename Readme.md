@@ -50,19 +50,19 @@ La visualización de los artículos en el móbile, será así:
 
 *Sección: Basado en tu última visita*
 
-![imagen de la cafetera](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-cafetera-moulinex.jpg?raw=true)
++ Imagen de la cafetera
   + $6.770
   + 40% OFF
   + Cafetera Moulinex
-![Imagen de MacBook](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-macbook-pro-2019.jpg?raw=true)
++ Imagen de MacBook
   + $230.000
   + 20% OFF
   + MacBook Pro 2019
-![Imagen de Teléfono](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-samsung-galaxy-s10.jpg?raw=true)
++ Imagen de Teléfono
   + $70.500
   + 10% OFF
   + Samsung Galaxy S10
-![Imagen de SmartTv](https://github.com/mjc14872/mercado-liebre/blob/main/public/images/img-tv-samsung-smart.jpg?raw=true)
++ Imagen de SmartTv
   + $23.200
   + 5% OFF
   + SmartTv Samsung 43"
@@ -82,7 +82,6 @@ La visualización de los artículos en el móbile, será así:
   + 10% OFF
   + Samsung Galaxy S10
 + Imagen de SmartTv
-  + $23.200
   + $23.200
   + 5% OFF
   + SmartTv Samsung 43"
