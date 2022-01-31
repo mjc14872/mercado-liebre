@@ -209,7 +209,7 @@ body > footer > div.paga > div:nth-child(3) > p {
 
 @media (min-width: 769px){
     body {
-        /* width: 100%; */
+        width: 100%;
     }
     .burger-menu {
         display: none;
