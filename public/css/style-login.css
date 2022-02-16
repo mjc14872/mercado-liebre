@@ -1,0 +1,80 @@
+/* formulario */
+.create-form {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    padding: 20px 15px;
+}
+
+.control-form {
+    margin-bottom: 15px;
+}
+
+.control-form label {
+    margin-bottom: 5px;
+    font-style: italic;
+    display: block;
+}
+
+.control {
+    width: 100%;
+    padding: 8px;
+}
+
+.control-peque {
+    width: 20%;
+    padding: 8px;
+}
+
+.boton-form {
+    background-color: #0044AA;
+    border: none;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 10%;
+   
+}
+
+.titular-login {
+    background-color: #0044AA;
+    text-align: center;
+}
+
+.button{
+    width: 20px;
+    text-align: center;
+}
+
+
+@media screen and (min-width: 360px) {
+    .boton-form {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .titular-login {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .boton-form {
+        width: 10%;
+    }
+
+    .titular-login {
+        margin-left: -20px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .boton-form {
+        width: 10%;
+    }
+
+    .titular-login {
+        margin-left: -120px;
+    }
+}
