@@ -81,7 +81,10 @@ a {
     text-decoration: none;
 }
 
+.articulos:hover {
+    box-shadow: 0 0 10px rgb(100, 100, 100);
 
+} 
 /* Estilos main */
 
 .banner img {
@@ -237,10 +240,10 @@ main {
         padding-left: 10px;
     }
 
-     .articulos:hover {
+     /* .articulos:hover {
         box-shadow: 0 0 10px rgb(100, 100, 100);
  
-    } 
+    }  */
 
    .productos {
         display: flex;
