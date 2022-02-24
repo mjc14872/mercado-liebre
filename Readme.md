@@ -3,7 +3,7 @@
 
 Diseño final del proyecto de maquetación que se desarrollará en su versión *mobile*.
 
-[Enlace Heroku]: https://mercado-liebre-mjc.herokuapp.com/
+![Enlace Heroku](https://mercado-liebre-mjc.herokuapp.com/)
 
 ![Diseño Final dispositivo mobil](https://user-images.githubusercontent.com/74206062/151694561-91470659-63eb-432d-8085-8a4899e66a09.png)
 
