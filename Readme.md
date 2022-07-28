@@ -1,7 +1,7 @@
 # **Proyecto Integrador - Digital House** 
 ## Mercado Liebre
 
-![Enlace de Deploy en Heroku](https://mercado-liebre-mjc.herokuapp.com/)
+[Enlace de Deploy en Heroku](https://mercado-liebre-mjc.herokuapp.com/)
 
 Diseño final del proyecto de maquetación que se desarrollará en su versión *mobile*.
 
